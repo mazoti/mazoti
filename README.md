@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Marcos Mazoti, I'm a software engineering specialist and also have a computer science degree,
+both from the best universities of Brazil. I worked with software development on embedded, web and desktop systems for almost 5 years
+
 <!--
 **mazoti/mazoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
