@@ -1,7 +1,7 @@
 ## Welcome to my GitHub repository!
+
 [![Linkedin Badge](https://img.shields.io/badge/-mazoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazoti/)](https://www.linkedin.com/in/mazoti/)
 [![Gmail Badge](https://img.shields.io/badge/-mazoti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mazoti@gmail.com)](mailto:mazoti@gmail.com)
----
 
 I'm a software engineering specialist and also have a computer science degree, both from the best universities of Brazil. I worked with software development on embedded, web and desktop systems for almost 5 years on small, global, startup and remote companies. Feel free to contact me, it would be a pleasure to help!
 
