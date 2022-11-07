@@ -1,4 +1,5 @@
-## Welcome to my GitHub repository!
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+repository)](https://git.io/typing-svg)
+
 [![Linkedin Badge](https://img.shields.io/badge/-mazoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mazoti/)](https://www.linkedin.com/in/mazoti/)
 [![Gmail Badge](https://img.shields.io/badge/-mazoti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mazoti@gmail.com)](mailto:mazoti@gmail.com)
 ---
