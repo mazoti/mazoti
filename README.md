@@ -6,9 +6,3 @@
 I'm a software engineering specialist and also have a computer science degree earned at accredited universities in Brazil. I've been working with software development on embedded, web and desktop systems since 2010 at small, medium, global and startup companies in-office and remote positions.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazoti&hide=TeX&layout=compact)
-
-**Call to action:**
-
-* Check out my projects!
-* Let's connect on LinkedIn!
- 
